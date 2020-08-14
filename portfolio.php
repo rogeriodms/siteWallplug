@@ -70,8 +70,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc">
-							<h1 class="animate-box" data-animate-effect="fadeInUp">Our Portfolio</h1>
-							<h2 class="animate-box" data-animate-effect="fadeInUp">Free HTML5 Bootstrap Templates Made <em>by</em> <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a></h2>
+							<h1 class="animate-box" data-animate-effect="fadeInUp">Portifólio</h1>
 						</div>
 					</div>
 				</div>

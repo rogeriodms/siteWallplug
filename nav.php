@@ -38,7 +38,7 @@
 								<li><a href="tools.php">Xamarin</a></li>
 							</ul>
 						</li>
-						<li><a href="portfolio.php">Portfólio</a></li>
+						<li><a href="portfolio.php">Portifólio</a></li>
 						<li><a href="contact.php">Contato</a></li>
 					</ul>
 				</div>
